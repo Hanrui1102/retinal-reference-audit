@@ -1,0 +1,3 @@
+# Optional: generate the PDF research report after analysis.
+reportlab>=4.0,<5
+pypdf>=5,<7

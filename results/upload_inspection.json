@@ -1,0 +1,54 @@
+{
+  "uploaded_filename": "GSE94437_genes.fpkm_tracking.gz",
+  "sha256": "3235ec03f9634fc4504b3ff7a57cd87ab3b9599f8d1f17b0e79e1076538c93ef",
+  "identical_to_local_geo_download": true,
+  "columns": [
+    "tracking_id",
+    "class_code",
+    "nearest_ref_id",
+    "gene_id",
+    "gene_short_name",
+    "tss_id",
+    "locus",
+    "length",
+    "coverage",
+    "Macular_RPE_choroid_sclera_FPKM",
+    "Macular_RPE_choroid_sclera_conf_lo",
+    "Macular_RPE_choroid_sclera_conf_hi",
+    "Macular_RPE_choroid_sclera_status",
+    "Macular_Retina_FPKM",
+    "Macular_Retina_conf_lo",
+    "Macular_Retina_conf_hi",
+    "Macular_Retina_status",
+    "Peripheral_RPE_choroid_sclera_FPKM",
+    "Peripheral_RPE_choroid_sclera_conf_lo",
+    "Peripheral_RPE_choroid_sclera_conf_hi",
+    "Peripheral_RPE_choroid_sclera_status",
+    "Peripheral_Retina_FPKM",
+    "Peripheral_Retina_conf_lo",
+    "Peripheral_Retina_conf_hi",
+    "Peripheral_Retina_status"
+  ],
+  "column_count": 25,
+  "tracking_rows": 57815,
+  "retinal_samples_in_metadata": 16,
+  "complete_pairs": 8,
+  "one_sample_per_eye_region": true,
+  "sample_expression_columns": [],
+  "retina_fpkm_columns": [
+    "Macular_Retina_FPKM",
+    "Peripheral_Retina_FPKM"
+  ],
+  "missing_retina_fpkm_cells": 0,
+  "retina_status_counts": {
+    "Macular": {
+      "OK": 57815
+    },
+    "Peripheral": {
+      "OK": 57815
+    }
+  },
+  "unique_tracking_ids": 57815,
+  "paired_analysis_ready": false,
+  "limitation": "Two tissue-group estimates do not provide sixteen individual sample measurements. Confidence bounds are not donor replicates."
+}

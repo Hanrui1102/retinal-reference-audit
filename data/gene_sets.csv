@@ -1,0 +1,22 @@
+symbol,gene_set,rationale,source
+RHO,rod,Rod opsin,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+GNAT1,rod,Rod transducin alpha,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+GNGT1,rod,Rod transducin gamma,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+PDE6A,rod,Rod PDE catalytic subunit,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+PDE6B,rod,Rod PDE catalytic subunit,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+PDE6G,rod,Rod PDE inhibitory subunit,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+SAG,rod,Rod arrestin,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+CNGA1,rod,Rod CNG channel alpha,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+CNGB1,rod,Rod CNG channel beta,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+SLC24A1,rod,Rod sodium-calcium exchanger,https://pmc.ncbi.nlm.nih.gov/articles/PMC3743458/
+OPN1LW,cone,Long-wavelength cone opsin,https://pmc.ncbi.nlm.nih.gov/articles/PMC6745503/
+OPN1MW,cone,Medium-wavelength cone opsin,https://onlinelibrary.wiley.com/doi/full/10.1111/ceo.14511
+OPN1SW,cone,Short-wavelength cone opsin,https://onlinelibrary.wiley.com/doi/full/10.1111/ceo.14511
+GNAT2,cone,Cone transducin alpha,https://pmc.ncbi.nlm.nih.gov/articles/PMC6745503/
+GNGT2,cone,Cone transducin gamma,https://pmc.ncbi.nlm.nih.gov/articles/PMC6745503/
+PDE6C,cone,Cone PDE catalytic subunit,https://pmc.ncbi.nlm.nih.gov/articles/PMC6745503/
+PDE6H,cone,Cone PDE inhibitory subunit,https://pmc.ncbi.nlm.nih.gov/articles/PMC6745503/
+ARR3,cone,Cone arrestin,https://pmc.ncbi.nlm.nih.gov/articles/PMC6745503/
+CNGA3,cone,Cone CNG channel alpha,https://onlinelibrary.wiley.com/doi/full/10.1111/ceo.14511
+CNGB3,cone,Cone CNG channel beta,https://onlinelibrary.wiley.com/doi/full/10.1111/ceo.14511
+GRK7,cone,Cone-enriched opsin kinase,https://pmc.ncbi.nlm.nih.gov/articles/PMC6745503/

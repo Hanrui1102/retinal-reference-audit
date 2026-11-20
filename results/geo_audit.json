@@ -1,0 +1,19 @@
+{
+  "total_geo_samples": 32,
+  "retina_samples": 16,
+  "complete_eye_pairs": 8,
+  "series_matrix_expression_rows": 0,
+  "tracking_rows": 57815,
+  "tracking_fpkm_columns": [
+    "Macular_RPE_choroid_sclera_FPKM",
+    "Macular_Retina_FPKM",
+    "Peripheral_RPE_choroid_sclera_FPKM",
+    "Peripheral_Retina_FPKM"
+  ],
+  "tracking_retinal_gsm_columns": [],
+  "per_sample_expression_available_in_downloads": false,
+  "sha256": {
+    "GSE94437_series_matrix.txt.gz": "e16fd896bbe817e3b067f336f6208af731eca694d49bd489e442fbe9f1c7f2f2",
+    "GSE94437_genes.fpkm_tracking.gz": "3235ec03f9634fc4504b3ff7a57cd87ab3b9599f8d1f17b0e79e1076538c93ef"
+  }
+}
