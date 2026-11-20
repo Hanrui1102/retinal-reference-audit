@@ -77,5 +77,3 @@ The previous sample-level workflow, scripts/analyze.py, is retained for a future
 ## Source study
 
 Li M, Jia C, Kazmierkiewicz KL, et al. *Comprehensive analysis of gene expression in human retina and supporting tissues*. Human Molecular Genetics. 2014;23(15):4001–4014. [doi:10.1093/hmg/ddu114](https://doi.org/10.1093/hmg/ddu114).
-
-The project is prepared locally for GitHub presentation; it has not been published to GitHub.
